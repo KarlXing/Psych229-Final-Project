@@ -1,13 +1,13 @@
 This is a repository for Psych 229 reinforcement learning class. 
 
 ### Requirement
-Python 3.7
-Pytorch 
-Gym (https://github.com/KarlXing/gym)
-Ray (https://github.com/ray-project/ray)
-Opencv-python
-Numpy
-Argparse
+Python 3.7  
+Pytorch   
+Gym (https://github.com/KarlXing/gym)   
+Ray (https://github.com/ray-project/ray)    
+Opencv-python  
+Numpy  
+Argparse  
 
 
 ```
